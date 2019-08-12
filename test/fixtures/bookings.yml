@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2019-08-12
+  end_date: 2019-08-12
+  foreign_key: MyString
+  face: MyString
+  foreing_key: MyString
+  user: MyString
+
+two:
+  start_date: 2019-08-12
+  end_date: 2019-08-12
+  foreign_key: MyString
+  face: MyString
+  foreing_key: MyString
+  user: MyString
